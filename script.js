@@ -5,6 +5,11 @@ let outputBox = document.getElementById("output")
 let copy = document.getElementById('copy')
 copy.addEventListener('click', function() {
     navigator.clipboard.writeText(outputBox.value)
+    copy.style = ''
+    copy.style = 'animation-name: spin; animation-duration: 500ms; animation-timing-function: linear;'
+    setTimeout(() => {
+        copy.style = ''
+    }, 500)
 })
 
 let modeButton = document.getElementById('mode')
