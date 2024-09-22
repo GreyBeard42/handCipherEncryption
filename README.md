@@ -23,4 +23,4 @@ Output: pceuemess g taresersx
 
 The encryption builds with each keyword so make sure your key phrase is decently long!
 
-### [Learn more about Hand Ciphers)](https://www.ciphermachinesandcryptology.com/en/handciphers.htm)
+### [Learn more about Hand Ciphers](https://www.ciphermachinesandcryptology.com/en/handciphers.htm)
