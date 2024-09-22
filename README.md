@@ -3,7 +3,7 @@ Simple encryption using the old Hand Cipher method.
 
 ---
 
-### This uses basically the same code from (basicPythonEncryption)[https://github.com/GreyBeard42/basicPythonEncryption], except in javascript.
+### This uses basically the same code from [basicPythonEncryption](https://github.com/GreyBeard42/basicPythonEncryption), except in javascript.
 
 ---
 
@@ -23,4 +23,4 @@ Output: pceuemess g taresersx
 
 The encryption builds with each keyword so make sure your key phrase is decently long!
 
-(### Learn more about Hand Ciphers)[https://www.ciphermachinesandcryptology.com/en/handciphers.htm]
+[### Learn more about Hand Ciphers)](https://www.ciphermachinesandcryptology.com/en/handciphers.htm)
