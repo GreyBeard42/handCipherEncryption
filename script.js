@@ -174,5 +174,13 @@ function decrypt(txt, key) {
         console.log(txt)
         nextKey++
     })
+    //remove x
+    temp = listify(txt)
+    while(temp[temp.length-1] == 'x') temp.pop()
+    txt = ''
+        temp.forEach((t) => {
+            txt += t
+        })
+    
     return(txt)
 }
