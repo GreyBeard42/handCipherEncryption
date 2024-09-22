@@ -2,6 +2,11 @@ let textBox = document.getElementById("text")
 let keyBox = document.getElementById("key")
 let outputBox = document.getElementById("output")
 
+let copy = document.getElementById('copy')
+copy.addEventListener('click', function() {
+    navigator.clipboard.writeText(outputBox.value)
+})
+
 let modeButton = document.getElementById('mode')
 let title = document.getElementById('title')
 let mode = 0
