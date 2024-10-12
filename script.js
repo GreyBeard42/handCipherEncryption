@@ -41,6 +41,7 @@ function run() {
     } else {
         if(keyBox.value != '') outputBox.value = decrypt(textBox.value, keyBox.value)
     }
+    if(outputBox.value.includes(undefined)) outputBox.value = "error"
 }
 
 function listify(txt) {
