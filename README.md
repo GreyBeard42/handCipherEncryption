@@ -1,6 +1,8 @@
 # handCipherEncryption
 Simple encryption using the old Hand Cipher method.
 
+![preview.png](preview.png)
+
 ---
 
 ### This uses basically the same code from [basicPythonEncryption](https://github.com/GreyBeard42/basicPythonEncryption), except in javascript.
