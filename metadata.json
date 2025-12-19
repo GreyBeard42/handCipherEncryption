@@ -1,0 +1,15 @@
+{
+  "title": "Encrypt 3",
+  "desc": "Simple encryption using the old Hand Cipher method.",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "9/22/2024",
+
+  "tags": [
+    "javascript",
+    "tool",
+    "encryption"
+  ]
+}
